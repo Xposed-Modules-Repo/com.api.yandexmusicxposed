@@ -12,4 +12,4 @@
 Устанавливаем модуль,включаем его для яндекс музыки,перезагружаемся,профит
 
 
-![Demo](demo.gif)
+![demo](https://github.com/user-attachments/assets/f7d4fd88-9b64-438c-a68d-5d34358223bb)
